@@ -20,7 +20,7 @@ const WishlistSchema = new Schema({
   updated: {
     type: Date,
     default: Date.now
-  },
+  },                
   created: {
     type: Date,
     default: Date.now
